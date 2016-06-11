@@ -1,0 +1,2 @@
+# monit
+Monit(Monitoring) Settings.

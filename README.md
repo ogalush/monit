@@ -1,5 +1,5 @@
 # Monitインストール方法(CentOS7)
-Monitとは、Linuxで使用できる監視プログラムの名称.  
+[Monit](https://mmonit.com/monit/)とは、Linuxで使用できる監視プログラムの名称.  
 Licence: AGPL  
 用途: サーバ内監視、外部監視(小規模向け)  
 ### メイン画面
@@ -72,3 +72,9 @@ Configファイルを参照.
 ```
 $ tail -f /var/log/monit.log
 ```
+
+## 参考
+* [公式ドキュメント](https://mmonit.com/monit/documentation/monit.html)
+* [10分くらいではじめられる、Monitによるサービス監視の自動化。](http://centos.sabakan.red/entry/2015/07/10/073940)
+* [Monit でお手軽に外部のサーバを監視する](http://d.hatena.ne.jp/akishin999/20121030/1351555542)
+* [Monit の導入](http://d.hatena.ne.jp/donbulinux/20090731/1249073898)

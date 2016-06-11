@@ -57,5 +57,13 @@ $ sudo systemctl status monit
            └─2047 /usr/bin/monit -I
 ```
 
+## WebUI確認
+[http://192.168.0.236:2812/](http://192.168.0.236:2812/)
+
 ## 設定内容
 Configファイルを参照.
+
+## ログファイル
+```
+$ tail -f /var/log/monit.log
+```

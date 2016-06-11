@@ -2,6 +2,11 @@
 Monitとは、Linuxで使用できる監視プログラムの名称.  
 Licence: AGPL  
 用途: サーバ内監視、外部監視(小規模向け)  
+### メイン画面
+![メイン画面](https://raw.githubusercontent.com/ogalush/monit/master/main.png)
+### 項目画面
+![項目画面](https://raw.githubusercontent.com/ogalush/monit/master/monitor.png)
+
 
 # インストール
 ## 環境

@@ -28,6 +28,7 @@ monit-5.14-1.el7.x86_64
 ## 設定
 ### 基本設定
 ```
+$ sudo cp -pv /etc/monitrc /etc/monitrc.bak
 ‘/etc/monitrc’ -> ‘/etc/monitrc.bak’
 $ sudo vi /etc/monitrc
 -----
